@@ -1,6 +1,6 @@
 # 🔧 6 Servo Motor Control with Arduino
 
-![Circuit](ScreenShot.png)
+![Circuit](screenshot.png)
 
 This project demonstrates how to control 6 servo motors using an Arduino Uno. The motors first sweep back and forth, then hold at 90°.
 
